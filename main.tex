@@ -1,9 +1,9 @@
 \documentclass[a4paper,11pt,final]{article}
 
 \include{Preamble/Preamble}
-\title{Cálculo Integral}
-\date{Ciencias Matemáticas, Fall 2023}
-\author{Pau Frangi Mahiques}
+\title{ASIGNATURA}
+\date{Ciencias Matemáticas, 2026}
+\author{Pau Frangi Mahiques y Diego Rodríguez Cubero}
 
 \begin{document}
 
@@ -28,7 +28,7 @@
     %----------------------------------------------------------------------------------------
     
     \TopRule \\[0.4cm]
-    { \huge \bfseries ÁNALISIS DE FUNCIONES DE VARIABLE COMPLEJA \footnote{Basado en los apuntes de María Pilar Cembranos}}\\[0.4cm]
+    { \huge \bfseries NOMBRE ASIGNATURA \footnote{Basado en los apuntes de NOMBRE PROFESOR}}\\[0.4cm]
     \BottomRule \\[0.5cm]    
     \textsc{\large Ciencias Matemáticas e Ingeniería Informática}\\[0.5cm] % Minor heading such as course title
       
@@ -100,8 +100,30 @@
 % Incluir las hojas de ejercicios
 \input{Exercises/Hojas.tex}
 
+\newpage
+
 % =====================================
-% PARTE III: APÉNDICE
+% PARTE III: EXÁMENES
+% =====================================
+\part{Exámenes}\label{part:examenes}
+
+% Reiniciar contadores de secciones (mantener numeración de páginas continua)
+\setcounter{section}{0}
+
+% Tabla de contenidos específica para exámenes
+\renewcommand{\contentsname}{Índice de Exámenes}
+\etocsettocstyle{\section*{\contentsname}}{}
+\etocsettocdepth{section}
+\localtableofcontents{}
+\newpage
+
+% Incluir los exámenes
+\input{Exams/Examenes Resueltos.tex}
+
+\newpage
+
+% =====================================
+% PARTE IV: APÉNDICE
 % =====================================
 \part{Apéndice}\label{part:apendice}
 
@@ -109,7 +131,7 @@
 \setcounter{section}{0}
 \setcounter{subsection}{0}
 
-% Configurar numeración de subsecciones para apéndices
+% Configurar numeración de subseccaciones para apéndices
 \renewcommand{\thesubsection}{\Alph{apendice}.\arabic{subsection}}
 
 % Tabla de contenidos específica para apéndice
