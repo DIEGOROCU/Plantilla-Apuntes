@@ -15,16 +15,17 @@ Esta es una plantilla LaTeX pensada para tomar apuntes, recopilar ejercicios y o
 	- [Preamble/Preamble.tex](Preamble/Preamble.tex): paquetes, opciones de documento y configuración global.
 	- [Preamble/Diagonal Matrix Command.tex](Preamble/Diagonal%20Matrix%20Command.tex): ejemplo de comando matemático personalizado.
 - [Theory/](Theory): teoría organizada por temas.
-	- [Theory/Theory.tex](Theory/Theory.tex): índice/aglutinador de los temas.
-	- [Theory/1 - Nombre primer tema.tex](Theory/1%20-%20Nombre%20primer%20tema.tex): ejemplo de tema.
+	- Índice: [Theory/Theory.tex](Theory/Theory.tex); Ejemplo: [Theory/1 - Nombre primer tema.tex](Theory/1%20-%20Nombre%20primer%20tema.tex).
 - [Exercises/](Exercises): hojas de ejercicios.
-	- [Exercises/Hojas.tex](Exercises/Hojas.tex) y [Exercises/Hoja1.tex](Exercises/Hoja1.tex): ejemplos de organización de hojas.
+	- Índice: [Exercises/Hojas.tex](Exercises/Hojas.tex); Ejemplo: [Exercises/Hoja1.tex](Exercises/Hoja1.tex).
 - [Exams/](Exams): exámenes y resoluciones.
-	- [Exams/Examen 1.tex](Exams/Examen%201.tex), [Exams/Examenes Resueltos.tex](Exams/Examenes%20Resueltos.tex)
+	- Índice: [Exams/Examenes Resueltos.tex](Exams/Examenes%20Resueltos.tex); Ejemplo: [Exams/Examen 1.tex](Exams/Examen%201.tex).
 - [Appendix/](Appendix): apéndices y agradecimientos.
-	- [Appendix/Appendix.tex](Appendix/Appendix.tex), [Appendix/Agradecimientos.tex](Appendix/Agradecimientos.tex)
+	- Índice: [Appendix/Appendix.tex](Appendix/Appendix.tex); Ejemplo: [Appendix/Agradecimientos.tex](Appendix/Agradecimientos.tex)
 - [TikZ/](TikZ): dibujos TikZ reutilizables.
 - [images/](images): figuras e imágenes.
+
+Nota: en teoría, ejercicios, exámenes y apéndices, el primer archivo general listado es el índice y el segundo es un archivo de ejemplo.
 
 ## Uso rápido
 
