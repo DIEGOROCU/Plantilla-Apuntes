@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.10)  19 JAN 2026 11:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.10)  20 JAN 2026 09:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -992,12 +992,12 @@ Package zref Info: New property: mdf@pagevalue on input line 895.
 Package thmtools Info: Key `postheadhook' (with value `\textcolor {black}{\rule [.6ex]{\linewidth }{0.4pt}}\\')
 (thmtools)             is not a known style key.
 (thmtools)             Will pass this to every \declaretheorem
-(thmtools)             that uses `style=myTheoremStyle' on input line 186.
+(thmtools)             that uses `style=myTheoremStyle' on input line 189.
 Package thmtools Info: Key `mdframed' (with value ` backgroundcolor=LightRed, innertopmargin=6pt, roundcorner=5pt, innerbottommargin=6pt, linewidth=0.7pt, skipabove=1\baselineskip , skipbelow=\medskipamount , ')
 (thmtools)             is not a known style key.
 (thmtools)             Will pass this to every \declaretheorem
-(thmtools)             that uses `style=myTheoremStyle' on input line 186.
-Package thmtools Info: Automatically pulling in `thmdef-mdframed' on input line 194.
+(thmtools)             that uses `style=myTheoremStyle' on input line 189.
+Package thmtools Info: Automatically pulling in `thmdef-mdframed' on input line 197.
  (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/thmtools\thmdef-mdframed.sty
 Package: thmdef-mdframed 2023/05/04 v0.76
 )
@@ -1005,47 +1005,47 @@ Package: thmdef-mdframed 2023/05/04 v0.76
 Package thmtools Info: Key `postheadhook' (with value `\textcolor {black}{\rule [.6ex]{\linewidth }{0.4pt}}\\')
 (thmtools)             is not a known style key.
 (thmtools)             Will pass this to every \declaretheorem
-(thmtools)             that uses `style=myPropositionStyle' on input line 212.
+(thmtools)             that uses `style=myPropositionStyle' on input line 215.
 Package thmtools Info: Key `mdframed' (with value ` backgroundcolor=LightOrange, innertopmargin=6pt, roundcorner=5pt, innerbottommargin=6pt, linewidth=0.7pt, skipabove=1\baselineskip , skipbelow=\medskipamount , ')
 (thmtools)             is not a known style key.
 (thmtools)             Will pass this to every \declaretheorem
-(thmtools)             that uses `style=myPropositionStyle' on input line 212.
+(thmtools)             that uses `style=myPropositionStyle' on input line 215.
 \c@proposición=\count377
 Package thmtools Info: Key `postheadhook' (with value `\textcolor {black}{\rule [.6ex]{\linewidth }{0.4pt}}\\')
 (thmtools)             is not a known style key.
 (thmtools)             Will pass this to every \declaretheorem
-(thmtools)             that uses `style=myCorollaryStyle' on input line 237.
+(thmtools)             that uses `style=myCorollaryStyle' on input line 240.
 Package thmtools Info: Key `mdframed' (with value ` backgroundcolor=LightOrange, innertopmargin=6pt, roundcorner=5pt, innerbottommargin=6pt, linewidth=0.7pt, skipabove=1\baselineskip , skipbelow=\medskipamount , ')
 (thmtools)             is not a known style key.
 (thmtools)             Will pass this to every \declaretheorem
-(thmtools)             that uses `style=myCorollaryStyle' on input line 237.
+(thmtools)             that uses `style=myCorollaryStyle' on input line 240.
 \c@corolario=\count378
 Package thmtools Info: Key `postheadhook' (with value `\textcolor {black}{\rule [.6ex]{\linewidth }{0.4pt}}\\')
 (thmtools)             is not a known style key.
 (thmtools)             Will pass this to every \declaretheorem
-(thmtools)             that uses `style=myLemmaStyle' on input line 262.
+(thmtools)             that uses `style=myLemmaStyle' on input line 265.
 Package thmtools Info: Key `mdframed' (with value ` backgroundcolor=LightOrange, innertopmargin=6pt, roundcorner=5pt, innerbottommargin=6pt, linewidth=0.7pt, skipabove=1\baselineskip , skipbelow=\medskipamount , ')
 (thmtools)             is not a known style key.
 (thmtools)             Will pass this to every \declaretheorem
-(thmtools)             that uses `style=myLemmaStyle' on input line 262.
+(thmtools)             that uses `style=myLemmaStyle' on input line 265.
 \c@lema=\count379
 Package thmtools Info: Key `postheadhook' (with value `\textcolor {black}{\rule [.6ex]{\linewidth }{0.4pt}}\\')
 (thmtools)             is not a known style key.
 (thmtools)             Will pass this to every \declaretheorem
-(thmtools)             that uses `style=myDefinitionStyle' on input line 287.
+(thmtools)             that uses `style=myDefinitionStyle' on input line 290.
 Package thmtools Info: Key `mdframed' (with value ` backgroundcolor=LightBlue, innertopmargin=6pt, roundcorner=5pt, innerbottommargin=6pt, linewidth=0.7pt, skipabove=1\baselineskip , skipbelow=\medskipamount , ')
 (thmtools)             is not a known style key.
 (thmtools)             Will pass this to every \declaretheorem
-(thmtools)             that uses `style=myDefinitionStyle' on input line 287.
+(thmtools)             that uses `style=myDefinitionStyle' on input line 290.
 \c@definición=\count380
 Package thmtools Info: Key `postheadhook' (with value `\textcolor {black}{\rule [.6ex]{\linewidth }{0.4pt}}\\')
 (thmtools)             is not a known style key.
 (thmtools)             Will pass this to every \declaretheorem
-(thmtools)             that uses `style=myObservationStyle' on input line 312.
+(thmtools)             that uses `style=myObservationStyle' on input line 315.
 Package thmtools Info: Key `mdframed' (with value ` backgroundcolor=LightGreen, innertopmargin=6pt, roundcorner=5pt, innerbottommargin=6pt, linewidth=0.7pt, skipabove=1\baselineskip , skipbelow=\medskipamount , ')
 (thmtools)             is not a known style key.
 (thmtools)             Will pass this to every \declaretheorem
-(thmtools)             that uses `style=myObservationStyle' on input line 312.
+(thmtools)             that uses `style=myObservationStyle' on input line 315.
 \c@observación=\count381
  (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
@@ -1133,51 +1133,100 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \c@hoja=\count386
 \c@apendice=\count387
 \c@examen=\count388
-) (main.aux)
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/doclicense\doclicense.sty
+Package: doclicense 2023/10/01 v3.3.0 Support for putting documents under a license
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/xifthen\xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/ifmtarg\ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+)) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\xs_counta=\count389
+\xs_countb=\count390
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/hyperxmp\hyperxmp.sty
+Package: hyperxmp 2024/03/17 v5.13 Store hyperref metadata in XMP format
+\hyxmp@aep@toks=\toks66
+\@hyxmp@count=\count391
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\ifdraft.sty
+Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+))
+\doclicense@hsize=\skip182
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/doclicense\doclicense-english.ldf
+File: doclicense-english.ldf 
+)) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/ccicons\ccicons.sty
+Package: ccicons 2017/10/30 v1.6 LaTeX support for Creative Commons icons
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks67
+\XKV@tempa@toks=\toks68
+)
+\XKV@depth=\count392
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+\csq@reset=\count393
+\csq@gtype=\count394
+\csq@glevel=\count395
+\csq@qlevel=\count396
+\csq@maxlvl=\count397
+\csq@tshold=\count398
+\csq@ltx@everypar=\toks69
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+)) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
  (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count389
+\scratchcounter=\count399
 \scratchdimen=\dimen330
 \scratchbox=\box142
-\nofMPsegments=\count390
-\nofMParguments=\count391
-\everyMPshowfont=\toks66
-\MPscratchCnt=\count392
+\nofMPsegments=\count400
+\nofMParguments=\count401
+\everyMPshowfont=\toks70
+\MPscratchCnt=\count402
 \MPscratchDim=\dimen331
-\MPnumerator=\count393
-\makeMPintoPDFobject=\count394
-\everyMPtoPDFconversion=\toks67
+\MPnumerator=\count403
+\makeMPintoPDFobject=\count404
+\everyMPtoPDFconversion=\toks71
 ) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count395
+\c@lstlisting=\count405
 
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.15).
 
-Package hyperref Info: Link coloring OFF on input line 8.
+Package hyperref Info: Link coloring OFF on input line 15.
 (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -1221,30 +1270,30 @@ Package hyperref Info: Link coloring OFF on input line 8.
 Package etoc Info: Setting (or re-setting) the options `maintoctotoc' and
 (etoc)             `localtoctotoc' to true as tocbibind was detected and
 (etoc)             found to be configured for `TOC to toc'.
-(etoc)             Reported at begin document on input line 8.
+(etoc)             Reported at begin document on input line 15.
 <images/logo.png, id=86, 1585.81029pt x 1585.81029pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 24.
+Package pdftex.def Info: images/logo.png  used on input line 31.
 (pdftex.def)             Requested size: 237.86128pt x 237.86128pt.
-LaTeX Font Info:    Trying to load font information for U+esint on input line 31.
+LaTeX Font Info:    Trying to load font information for U+esint on input line 38.
 (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/esint\uesint.fd
 File: uesint.fd 
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
  (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
  (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 31.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 38.
  (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 
-Package hyperref Warning: Suppressing link with empty target on input line 43.
+Package hyperref Warning: Suppressing link with empty target on input line 50.
 
 
 
@@ -1260,7 +1309,7 @@ Package hyperref Warning: Suppressing link with empty target on input line 43.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.65 \newpage
+l.72 \newpage
               [1]
 
 
@@ -1271,7 +1320,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 77.
+Package hyperref Warning: Suppressing link with empty target on input line 84.
 
 [2] (Theory/Theory.tex Excluding 'comment' comment. (Theory/1 - Nombre primer tema.tex)
 
@@ -1295,7 +1344,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 98.
+Package hyperref Warning: Suppressing link with empty target on input line 105.
 
 [4] (Exercises/Hojas.tex Excluding 'comment' comment. (Exercises/Hoja1.tex)
 
@@ -1319,7 +1368,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 118.
+Package hyperref Warning: Suppressing link with empty target on input line 125.
 
 [6] (Exams/Examenes Resueltos.tex Excluding 'comment' comment. (Exams/Examen 1.tex)
 
@@ -1343,7 +1392,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 142.
+Package hyperref Warning: Suppressing link with empty target on input line 149.
 
 [8] (Appendix/Appendix.tex Excluding 'comment' comment. (Appendix/Agradecimientos.tex
 
@@ -1363,7 +1412,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 Package hyperref Warning: Suppressing link with empty target on input line 5.
 
-[9]) (main.aux)
+[9])
+<doclicense-CC-by-nc-nd-88x31.pdf, id=192, 90.3375pt x 31.61812pt>
+File: doclicense-CC-by-nc-nd-88x31.pdf Graphic file (type pdf)
+<use doclicense-CC-by-nc-nd-88x31.pdf>
+Package pdftex.def Info: doclicense-CC-by-nc-nd-88x31.pdf  used on input line 155.
+(pdftex.def)             Requested size: 109.50027pt x 38.32556pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 157.
+
+(C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\se-pdfdoc.def
+File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\se-utf8.def
+File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
+) [10 <C:/Users/Diego/AppData/Local/Programs/MiKTeX/tex/latex/doclicense/images/doclicense-CC-by-nc-nd-88x31.pdf>] (main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1372,17 +1443,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: E8A9FAB24240AEC6E3B4F4F10B32445A;1607.
  ) 
 Here is how much of TeX's memory you used:
- 47637 strings out of 473523
- 1122365 string characters out of 5714630
- 1749962 words of memory out of 5000000
- 69949 multiletter control sequences out of 15000+600000
+ 49519 strings out of 473523
+ 1155592 string characters out of 5714630
+ 1783443 words of memory out of 5000000
+ 71772 multiletter control sequences out of 15000+600000
  577730 words of font info for 114 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 109i,11n,112p,869b,961s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,11n,112p,955b,961s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Diego\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (10 pages, 570840 bytes).
+Output written on main.pdf (11 pages, 594422 bytes).
 PDF statistics:
- 241 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
- 250 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 254 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 259 words of extra memory for PDF output out of 10000 (max. 10000000)
 
