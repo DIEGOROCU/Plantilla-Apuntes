@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.10)  20 JAN 2026 09:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.10)  20 JAN 2026 09:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1410,7 +1410,7 @@ Package hyperref Warning: Suppressing link with empty target on input line 151.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 10.95003pt
-(hyperref)                replaced by space on input line 14.
+(hyperref)                replaced by space on input line 15.
 
 )
 
@@ -1463,7 +1463,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  109i,11n,112p,955b,961s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Diego\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (12 pages, 612298 bytes).
+Output written on main.pdf (12 pages, 612325 bytes).
 PDF statistics:
  271 PDF objects out of 1000 (max. 8388607)
  38 named destinations out of 1000 (max. 500000)
